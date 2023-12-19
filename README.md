@@ -13,7 +13,6 @@ To run the programs, follow these steps:
 ## Basics Concepts
 
 __*HR Application Folder*__
-
 It is an HR application designed to perform the following tasks:
 
 1. Main Menu: Users can select to add an employee, display employee information, or exit.
@@ -24,6 +23,19 @@ It is an HR application designed to perform the following tasks:
 3. Display Employee Menu: Users can choose to display information for all employees, display information for a specific employee by ID, or return to the Main Menu.
 
 This application demonstrates knowledge of basic concepts of C#, such as user inputs, if and else statements, switch statements, loops, break and return, arrays, and methods.
+
+## Intermediate Concepts
+
+__*Student Class 01**__
+It is a simple code that shows the concept of a class and objects, properties and its getters and setters, and how to display the data implicitly and explicitly.
+
+__*Student Class 02**__
+It is a simple code that shows the concept of an abstract class and how to inherit from it. 
+A class that is not able to be instantiated is called abstract. Rather, it acts as a basic class from which other classes might be derived. To provide a common set of attributes or behaviors that derived classes ought to possess, abstract classes are utilized. An abstract class cannot have objects created for it; instead, a derived class must be created from it. in order to use the derived class's object to access members of the abstract class.
+ 
+
+
+
 
 
 
